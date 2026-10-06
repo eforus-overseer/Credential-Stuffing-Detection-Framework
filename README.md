@@ -146,3 +146,11 @@ For a complete breakdown of the implementation approach, see the [CODE_OVERVIEW.
 
 ## Disclaimer
 This project is for educational and research purposes only. The techniques demonstrated should only be applied to systems you own or have permission to test.
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/credential-stuffing-detection-framework/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
