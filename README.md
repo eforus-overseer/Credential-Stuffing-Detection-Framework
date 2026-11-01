@@ -154,3 +154,11 @@ This project is for educational and research purposes only. The techniques demon
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/credential-stuffing-detection-framework/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for Credential-Stuffing-Detection-Framework](assets/pixel-art.svg)
+
+A small visual signature for this repository.
