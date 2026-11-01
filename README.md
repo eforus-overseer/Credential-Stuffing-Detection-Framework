@@ -161,4 +161,4 @@ This project is for educational and research purposes only. The techniques demon
 
 ![Pixel-art cover for Credential-Stuffing-Detection-Framework](assets/project-cover.png)
 
-<sub>Pixel-art adaptation of [Computersicherheit](https://commons.wikimedia.org/wiki/File:Computersicherheit.jpg) by Unknown, licensed [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/). Source: Wikimedia Commons.</sub>
+<sub>Pixel-art adaptation of [OpenMoji lock](https://github.com/hfg-gmuend/openmoji/blob/master/color/618x618/1F512.png) by OpenMoji contributors, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source: OpenMoji.</sub>
